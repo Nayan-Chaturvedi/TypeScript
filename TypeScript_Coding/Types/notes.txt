@@ -3,10 +3,11 @@
   Matlab, TypeScript aapko bata sakta hai ki kisi variable mein kis type ka data store hoga, jaise number, string, boolean, etc.
 
 
-#Primitives and Refrence
+# Primitives and Refrence
 
-##Primitives:
+## Primitives:
 Primitives woh basic data types hain jo directly values hold karte hain. Yeh sabse simple aur fundamental types hain. Jaise:
+
 
 Number: let age = 25;
 
