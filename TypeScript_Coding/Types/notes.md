@@ -8,7 +8,7 @@
 ## Primitives:
 Primitives woh basic data types hain jo directly values hold karte hain. Yeh sabse simple aur fundamental types hain. Jaise:
 
-```json
+```typescript
 Number: let age = 25;
 
 String: let name = "Nayan";
@@ -63,6 +63,8 @@ if (typeof variable === "string") {
 }
 ```
 
+ ---
+
 # Enum
 
 Enums TypeScript mein ek special type hota hai jo constants ka set define karta hai.
@@ -82,6 +84,7 @@ console.log(Status.InProgress); // 2
 console.log(Status.Completed);  // 5
 console.log(Status.Cancelled);  // 6
 ```
+---
 
 # Type inference
 
@@ -100,6 +103,8 @@ message = "Another string";    // yeh sahi hai
 let count = 10; // TypeScript ne samajh liya yeh number hai
 count = "Twenty"; // Error, kyunki count ko pehle number assign hua tha
 ```
+
+---
 
 # Union And Intersection
 
@@ -132,6 +137,8 @@ let employee: EmployeePerson = {
     employeeId: 123
 };
 ```
+
+---
 
 # tsconfig.json File:
 tsconfig.json ek configuration file hai jo TypeScript compiler ko 
