@@ -32,6 +32,14 @@ Reference types complex data structures ko represent karte hain, jaise objects a
 tuples ek special type hoti hai jo fixed number of elements ko specific types ke sath store karne ke liye use hoti hai.
  Matlab, tuples aapko ek array jaisa structure provide karti hai, lekin usme har element ka type aur order predefined hota hai.
 
+```typescript
+// define our tuple
+let ourTuple: [number, boolean, string];
+
+// initialize correctly
+ourTuple = [5, false, 'Coding God was here'];
+```
+
  ---
 
 # any, unknown datatype in typescript
