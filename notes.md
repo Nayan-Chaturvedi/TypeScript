@@ -28,13 +28,12 @@ typescript: Yeh specify kar raha hai ki aap TypeScript package install kar rahe 
  ke sabhi projects mein available hoga, na ki sirf current project mein.
 
 ## Diagrammatically:
-npm → Package Manager
 
-i → install command
+- **npm** → Package Manager
+- **i** → install command
+- **typescript** → specific package
+- **-g** → globally
 
-typescript → specific package
-
--g → globally
 
 ---
 
