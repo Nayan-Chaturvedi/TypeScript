@@ -1,4 +1,5 @@
-# npm - Ye playstore jaisa market hai jaha sare app dale huye hai. per npm me packages dale huye hai apps nahi.
+# npm :
+ Ye playstore jaisa market hai jaha sare app dale huye hai. per npm me packages dale huye hai apps nahi.
 
 # Node.js:
 Node.js ek JavaScript runtime environment hai jo aapko server-side scripting ya backend mein JavaScript use 
@@ -46,5 +47,6 @@ TypeScript likhna: TypeScript JavaScript ka ek advanced version hai jo humein be
 Compile karna: Jab aap script.ts likhte ho, usse pehle JavaScript mein convert karna padta hai using tsc script.ts (TypeScript Compiler).
 
 Script include karna: Ab jo JavaScript mein compile hua file (script.js) usse HTML mein include karte hain <script src="script.js"></script>.
+
 ---
 
