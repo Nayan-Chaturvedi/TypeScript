@@ -1,15 +1,13 @@
 
 
  npm i typescript -g
- npm: Yeh Node Package Manager hai, jo packages install karne ke liye use hota hai.
+ npm: Yeh Node Package Manager hai
 
-i: install ka short form hai. Matlab, yeh command install kar rahi hai.
+i: install ka short form hai
 
 typescript: Yeh specify kar raha hai ki aap TypeScript package install kar rahe ho.
 
--g: Yeh flag batata hai ki aap yeh package globally install karna chahte ho. Matlab, yeh package aapke system
- ke sabhi projects mein available hoga, na ki sirf current project mein.
-
+-g: ishka matlb 'global' hota hai. ye package globally install karna hai, taki aap package ko kahi bhi use kar sake bina install kiye
 ## Diagrammatically:
 
 - **npm** → Package Manager
