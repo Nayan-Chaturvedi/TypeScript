@@ -1,22 +1,4 @@
-# npm :
- Ye playstore jaisa market hai jaha sare app dale huye hai. per npm me packages dale huye hai apps nahi.
 
-# Node.js:
-Node.js ek JavaScript runtime envir
-onment hai jo aapko server-side scripting ya backend mein JavaScript use 
-karne ki suvidha deta hai. Matlab, pehle JavaScript sirf browsers mein run hoti thi, par Node.js ke aane ke baad
- aap JavaScript ko server pe bhi run kar sakte ho.
-
-Example: Aapki website ka server-side code, jaise user login, data fetch karna etc., JavaScript mein likh sakte ho.
-
-# NPM (Node Package Manager):
-NPM ek tool hai jo Node.js ke sath aata hai. Yeh ek library aur package manager hai jo aapko dusre developers
- ke banaye packages use karne ki suvidha deta hai.
-
-Example: Aapko ek package chahiye jo email bhej sakta hai, toh aap NPM se woh package install kar sakte ho aur
- apne code mein use kar sakte ho.
-
----
 
  npm i typescript -g
  npm: Yeh Node Package Manager hai, jo packages install karne ke liye use hota hai.
