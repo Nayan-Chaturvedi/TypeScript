@@ -158,15 +158,10 @@ console.log(newEmployee);
 # tsconfig.json File:
 tsconfig.json ek configuration file hai jo TypeScript compiler ko 
 instructions deta hai ki project ko kaise compile karna hai.
-
-# tsc --init:
+## How to create tsconfig.json
+- tsc --init:
 Command: Jab aap terminal mein tsc --init command run karte ho, to yeh command ek default tsconfig.json
  file create karti hai aapke TypeScript project ke liye.
-
-Purpose: Yeh aapke project ke liye default settings provide karta hai aur aap isse modify kar
- sakte ho apne requirement ke according.
-
----
 
 # "outDir": "./New"
 
